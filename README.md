@@ -22,7 +22,7 @@ pip install keyboard
 3. Run the script using Python:
 
    ```bash
-   python typing_speed_tracker.py
+   python TypeSpeed_Tracker.py
    ```
 
 4. Choose your desired mode by entering `1` for **Live Tracking Mode** or `2` for **Random Sentences Mode**.
