@@ -1,0 +1,30 @@
+
+Created on Sat Sep 29,2024
+@author: Pramith
+
+
+****--WORKFLOW
+
+
+Start
+    - Ask Mode
+        - Live Tracking Mode
+            - Run in background
+                - Track
+                    - WPM
+                - End
+                    - Print WPM
+                    - Words Records
+        - Give Random Sentences to track Mode
+            - Give Random Sentences
+                - Track
+                    - Word Per Minute
+                    - Accuracy
+                - End
+                    - Print WPM
+                    - Print Accuracy
+                    - Update records
+
+--****
+
+
